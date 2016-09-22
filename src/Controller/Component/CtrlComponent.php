@@ -9,6 +9,9 @@
 namespace App\Controller\Component;
 
 use Cake\Controller\Component;
+use Cake\Filesystem\Folder;
+use ReflectionClass;
+use ReflectionMethod;
 
 /**
  * CakePHP CtrlComponent
