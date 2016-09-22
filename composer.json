@@ -1,7 +1,7 @@
 {
-    "name": "yosiazwan/CakeCtrl",
+    "name": "yosiazwan/cake-ctrl",
     "description": "CakePHP 3 Plugins to get controller list and actions",
-    "homepage": "https://github.com/yosiazwan/CakeCtrl",
+    "homepage": "https://github.com/yosiazwan/cake-ctrl",
     "type": "cakephp3-plugin",
     "license": "MIT",
     "authors": [
