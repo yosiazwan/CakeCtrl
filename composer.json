@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "YosiAzwan\\Ctrl": "src"
+            "YosiAzwan\\Ctrl\\": "src"
         }
     },
     "minimum-stability": "dev",
